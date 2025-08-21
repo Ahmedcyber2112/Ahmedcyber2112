@@ -117,9 +117,6 @@
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-</div>
 
 
 <div align="center">
