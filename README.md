@@ -50,7 +50,10 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left"> 📊 GitHub Stats
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
