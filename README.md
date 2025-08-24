@@ -129,17 +129,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
- > 人类对科技，一比零 :s
-  
-  ***
+ 
   
 <img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 
-  ***
+ 
   
-  > Human Vs. AI (1:0) :s
-  
-  ***
 
 💳 Github Profile Summary Card
  <div align=center>
