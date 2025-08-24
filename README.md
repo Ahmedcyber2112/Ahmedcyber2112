@@ -32,7 +32,8 @@
 
 ---
 
- 📊 GitHub Stats
+ <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmedcyber2112&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
