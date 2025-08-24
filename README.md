@@ -124,7 +124,7 @@
 
 🏆 GitHub Trophies
 
-
+<img src="./download.svg" alt="Snake animation" />
  
   
 ![](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
