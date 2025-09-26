@@ -127,9 +127,7 @@
 <img src="./download.svg" alt="Snake animation" />
  
   
-![](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
  
   
 
