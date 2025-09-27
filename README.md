@@ -42,9 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedcyber2112&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmedcyber2112&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
+
 
 --------
 <img style="width: 800px" src="https://wakatime.com/share/@f07942ee-9911-4106-826c-a778fbf28756/c62d970f-7339-430a-a0b6-24d280190327.svg" />
