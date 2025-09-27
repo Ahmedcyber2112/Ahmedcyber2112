@@ -45,7 +45,7 @@
 
 
 --------
-<img style="width: 800px" src="https://wakatime.com/share/@f07942ee-9911-4106-826c-a778fbf28756/c62d970f-7339-430a-a0b6-24d280190327.svg" />
+<img style="width: 100%" src="https://wakatime.com/share/@f07942ee-9911-4106-826c-a778fbf28756/c62d970f-7339-430a-a0b6-24d280190327.svg" />
 
 
 ---------
