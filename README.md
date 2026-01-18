@@ -91,9 +91,4 @@
 
 ### 
 
-<br clear="both" />
-
-<img src="./pacman.svg" alt="Snake animation" />
-
-<br clear="both" />
 
