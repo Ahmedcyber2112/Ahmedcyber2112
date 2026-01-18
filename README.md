@@ -38,19 +38,20 @@
 <h2 align="left">🌐 Connect with me:</h2>
 
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:saeedyoussef219@gmail.com" target="_blank">
+  <a href="mailto:ahmedso6789@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
-  <a href="http://facebook.com/youssef.aboyehia.1" target="_blank">
+  <a href="https://www.facebook.com/g3a7med2112" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
-  <a href="https://t.me/yousefsaeed" target="_blank">
+  <a href="<img width="1422" height="1760" alt="image" src="https://github.com/user-attachments/assets/81ed048c-a425-4ff2-ab98-c26a15682238" />
+" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" />
   </a>
-  <a href="https://wa.me/201010283262" target="_blank">
+  <a href="https://wa.me/201061021365" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
   </a>
 </div>
