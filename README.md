@@ -103,18 +103,6 @@
 </div>
 
 <div align="center">
-
-```
-      ✨ THE STORY CONTINUES... ✨
-
-   "In a world of 10x developers,
-    I choose to be a 1x human
-    who codes with heart and
-    plays chess with soul"
-
-   - Youssef, who turns impossible dreams into reality
-```
-
 <br>
 
 **Thanks for joining my story. Now, let's write the next chapter together! 🚀♟️**
