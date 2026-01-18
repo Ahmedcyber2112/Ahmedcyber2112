@@ -101,3 +101,22 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
 </div>
+
+<div align="center">
+
+```
+      ✨ THE STORY CONTINUES... ✨
+
+   "In a world of 10x developers,
+    I choose to be a 1x human
+    who codes with heart and
+    plays chess with soul"
+
+   - Youssef, who turns impossible dreams into reality
+```
+
+<br>
+
+**Thanks for joining my story. Now, let's write the next chapter together! 🚀♟️**
+
+</div>
