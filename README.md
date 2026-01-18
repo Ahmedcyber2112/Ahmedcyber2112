@@ -82,7 +82,7 @@
 </p>
 
 
-<h2 align="left">🛠️ Tools:CLOUD & DEVOPS REALM</h2>
+<h2 align="left">🛠️ Tools: CLOUD & DEVOPS REALM</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,visualstudio,vite,figma,vercel,pnpm,npm&perline=10" />
