@@ -81,7 +81,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
 </p>
-<h2 align="left">🛠️ programe Languages:</h2>
+<h2 align="left">🌐 programe Languages:</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,&perline=10" />
