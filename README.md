@@ -8,10 +8,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://my-github-stats-fady.vercel.app/api?username=Jo-Plus&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+        <img height="180em" src="https://my-github-stats-fady.vercel.app/api?username=Ahmedcyber2112&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
       </td>
       <td>
-        <img height="180em" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Jo-Plus&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+        <img height="180em" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Ahmedcyber2112&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
       </td>
     </tr>
   </table>
