@@ -20,7 +20,7 @@
 ### 
 
 <p align="center">
-  <img src="assets/my-photo-circle.png" alt="My Photo" width="350" height="350" />
+  <img src="WhatsApp Image 2025-08-18 at 9.41.49 PM.jpeg" alt="My Photo" width="350" height="350" />
 </p>
 
 
