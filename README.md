@@ -1,151 +1,99 @@
+<h2 align="center">Hi 👋! My name is Ahmed Soliman</h2>
 
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h3 align="center">Full-Stack Dev | React & Next.js | Backend: Node.js (Express & Nest.js) .Netcore | DB: MongoDB , SQL & PostgreSQL</h3>
 
+### 
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://my-github-stats-fady.vercel.app/api?username=Jo-Plus&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+      </td>
+      <td>
+        <img height="180em" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Jo-Plus&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-<!-- VISTAS DEL PERFIL -->
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="100%" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+### 
+
+<p align="center" style="margin: 0;">
+<img src="output/Me.png" alt="My Photo" height="350" />
+</p>
+
+### 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=200&center=true&vCenter=true&width=700&lines=Hi+I'm+Ahmed+Soliman;FullStack+Developer+%F0%9F%92%BB;React+%2F+Next.js+%2F+.NET;ASP.NET+MVC+%2F+APIs;Node.js+%2F+Express;SQL+Expert;Always+learning+new+techs+%F0%9F%9A%80" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Hi+I%27m+Yousef+Saeed;Full-Stack+Developer+%7C+React+%26+Next.js+%7C+Node.js+(Express+%26+Nest.js)+%7C+MongoDB+%26+PostgreSQL;Always+learning+new+techs+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 
- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<div align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+### 
+
+<h2 align="left">🌐 Connect with me:</h2>
+
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://www.linkedin.com/in/yousef-saeed-57aa55278/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="mailto:saeedyoussef219@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
-  <a href="https://t.me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="http://facebook.com/youssef.aboyehia.1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://t.me/yousefsaeed" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/201010283262" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
   </a>
 </div>
 
----
+<h2 align="left">🎨 Frontend Skills:</h2>
 
- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,tailwind,react,redux,mui,nextjs,vite,sass&perline=10" />
+  <br><br>
+  <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <span>&nbsp;</span>
+  <img src="https://img.shields.io/badge/Framer_Motion-fbbf24?style=for-the-badge&logo=framer&logoColor=black" />
+  <span>&nbsp;</span>
+  <img src="https://img.shields.io/badge/Yup-fbbf24?style=for-the-badge&logo=yup&logoColor=black" />
+</p>
 
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedcyber2112&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedcyber2112&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<h2 align="left">🖥️ Backend Skills:</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux,ejs,swagger,stripe,socketio&perline=10" />
+  <br><br>
+  <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
+</p>
+
+
+<h2 align="left">🛠️ Tools:</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,pnpm,npm&perline=10" />
+</p>
+
+### 
+
+<div align="center" style="margin-top: 40px;">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
+### 
 
+<br clear="both" />
 
---------
-<img style="width: 100%" src="https://wakatime.com/share/@f07942ee-9911-4106-826c-a778fbf28756/c62d970f-7339-430a-a0b6-24d280190327.svg" />
+<img src="./pacman.svg" alt="Snake animation" />
 
-
----------
-
-
-
-
-<h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<div align="center">
-<!-- Row 1 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" alt="TailwindCSS" />
-<img width="14" />
-
-<!-- Row 2 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="Bootstrap" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48" alt="dotnetcore logo"  />
-  <img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="Express" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="48" alt=".NET" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" />
-<img width="14" />
-
-<!-- Row 3 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="Firebase" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="C#" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
-<img width="14" />
-
-<!-- Row 4 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="48" alt="Arduino" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="48" alt="Embedded C" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="48" alt="Visual Studio" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="48" alt="Notion" />
-<img width="14" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux" />
-<img width="14" />
-<!-- Row 5 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="48" alt="CLion" />
-</div>
-
-
-🏆 GitHub Trophies
+<br clear="both" />
 
 <img src="./download.svg" alt="Snake animation" />
- 
-  
-
- 
-  
-
-💳 Github Profile Summary Card
- <div align=center>
-   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmedcyber2112&theme=github_dark)
- </div>
-
-
-
-
-
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
