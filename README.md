@@ -20,7 +20,7 @@
 ### 
 
 <p align="center" style="margin: 0;">
-<img src="WhatsApp Image 2025-08-18 at 9.41.49 PM.jpeg" alt="My Photo" height="350" />
+<img src="" alt="My Photo" height="350" />
 </p>
 
 
