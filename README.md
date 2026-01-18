@@ -71,14 +71,14 @@
 <h2 align="left">🖥️ Backend Skills:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux,ejs,swagger,stripe,socketio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,cs,dotnet,postgres,mongodb,mysql,redis,sqlite,graphql,prisma,docker,githubactions,linux,ejs,swagger,stripe,socketio&perline=10" />
   <br><br>
   <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
 </p>
 <h2 align="left">🛠️ programe Languages:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,dotnet,python,&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,&perline=10" />
 </p>
 
 
