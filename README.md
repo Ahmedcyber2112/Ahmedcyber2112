@@ -114,3 +114,14 @@
 **Thanks for joining my story. Now, let's write the next chapter together! 🚀♟️**
 
 </div>
+
+
+
+<p align="center">
+  <img
+    src="Chess git.png"
+    alt="My Photo"
+    width="10000"
+    height="200"
+  />
+</p>
