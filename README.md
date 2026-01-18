@@ -2,7 +2,7 @@
   <img
     src="Chess git.png"
     alt="My Photo"
-    width="20000"
+    width="10000"
     height="200"
   />
 </p>
