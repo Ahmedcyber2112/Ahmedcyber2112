@@ -20,7 +20,7 @@
 ### 
 
 <p align="center" style="margin: 0;">
-<img src="" alt="My Photo" height="350" />
+<img src="GitHub Photo.png" alt="My Photo" height="350" />
 </p>
 
 
