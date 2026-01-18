@@ -2,9 +2,11 @@
   <img
     src="Chess git.png"
     alt="My Photo"
-    width="600"
+    width="800"
+    height="200"
   />
 </p>
+
 
 
 <h2 align="center">Hi 👋! My Name is Ahmed Soliman</h2>
