@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="Chess git.png"
+    alt="My Photo"
+    width="600"
+  />
+</p>
+
+
 <h2 align="center">Hi 👋! My Name is Ahmed Soliman</h2>
 
 <h3 align="center">Full-Stack Dev | React & Next.js | Backend: Node.js (Express & Nest.js) .Netcore | DB: MongoDB , SQL & PostgreSQL</h3>
