@@ -71,7 +71,7 @@
 <h2 align="left">🖥️ Backend Skills:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,cs,dotnet,postgres,mongodb,mysql,redis,sqlite,graphql,prisma,docker,githubactions,linux,ejs,swagger,stripe,socketio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,cs,dotnet,postgres,mongodb,mysql,redis,sqlite,graphql,prisma,githubactions,ejs,swagger,stripe,socketio&perline=10" />
   <br><br>
   <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
 </p>
@@ -82,10 +82,10 @@
 </p>
 
 
-<h2 align="left">🛠️ Tools:</h2>
+<h2 align="left">🛠️ Tools:CLOUD & DEVOPS REALM</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,pnpm,npm&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,visualstudio,vite,figma,vercel,pnpm,npm&perline=10" />
 </p>
 
 ### 
