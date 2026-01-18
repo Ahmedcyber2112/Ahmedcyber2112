@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ahmed Soliman</h2>
+<h2 align="center">Hi 👋! My Name is Ahmed Soliman</h2>
 
 <h3 align="center">Full-Stack Dev | React & Next.js | Backend: Node.js (Express & Nest.js) .Netcore | DB: MongoDB , SQL & PostgreSQL</h3>
 
@@ -47,7 +47,7 @@
   <a href="https://www.facebook.com/g3a7med2112" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
   </a>
-  <a href="<img width="1422" height="1760" alt="image" src="https://github.com/user-attachments/assets/81ed048c-a425-4ff2-ab98-c26a15682238" />
+  <a href="
 " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" />
   </a>
@@ -97,4 +97,3 @@
 
 <br clear="both" />
 
-<img src="./download.svg" alt="Snake animation" />
