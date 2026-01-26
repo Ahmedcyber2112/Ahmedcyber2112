@@ -11,16 +11,11 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=250&lines=Hi+I'm+Ahmed+Soliman;Full-Stack+Dev+%7C+React+%26+Next.js;Backend+Node.js+%28Express+%26+Nest.js%29+%2B+.NET+Core;DB+MongoDB+%7C+SQL+%7C+PostgreSQL"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=250&lines=👋+Hi+I'm+Ahmed+Soliman;🧑‍💻+Full-Stack+Dev+%7C+React+%26+Next.js;⚙️+Backend+Node.js+%28Express+%26+Nest.js%29+%2B+.NET+Core;🛢️+DB+MongoDB+%7C+SQL+%7C+PostgreSQL"
     alt="Ahmed Soliman Typing Title"
   />
-
-  <!-- Tech Stack Icons -->
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,dotnet,mongodb,postgresql,git,github,linux,vscode"
-    alt="Tech Stack"
-  />
 </div>
+
 
 
 
