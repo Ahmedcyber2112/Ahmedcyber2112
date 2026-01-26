@@ -9,9 +9,17 @@
 
 
 
-<h2 align="center">Hi 👋! My Name is Ahmed Soliman</h2>
+<div align="center">
 
-<h3 align="center">Full-Stack Dev | React & Next.js | Backend: Node.js (Express & Nest.js) .Netcore | DB: MongoDB , SQL & PostgreSQL</h3>
+  <h2>Hi 👋! My Name is Ahmed Soliman</h2>
+
+  <h3>
+    Full-Stack Dev | React &amp; Next.js | Backend: Node.js (Express &amp; Nest.js) .Netcore | 
+    DB: MongoDB, SQL &amp; PostgreSQL
+  </h3>
+
+</div>
+
 
 ### 
 
@@ -33,9 +41,6 @@
 <p align="center" style="margin: 0;">
 <img src="GitHub Photo.png" alt="My Photo" height="350" />
 </p>
-
-
-### 
 
 
 
