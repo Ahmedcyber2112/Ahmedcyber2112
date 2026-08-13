@@ -11,25 +11,17 @@
 
 <br/><br/>
 
+<div align="center">
+
 <a href="https://github.com/Ahmedcyber2112">
-<img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF"
-     alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a><a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
+<img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a><a href="mailto:ahmedso6789@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
-  
-
-<a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
-<img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-     alt="LinkedIn"/>
-</a>
-
-  
-
-<a href="mailto:ahmedso6789@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335"
-     alt="Email"/>
-</a>
-
+</div>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Ahmedcyber2112&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square"
