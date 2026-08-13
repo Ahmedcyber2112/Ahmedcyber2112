@@ -6,37 +6,49 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=27&duration=2200&pause=700&color=F6C85F&center=true&vCenter=true&width=950&lines=AHMED+SOLIMAN;FULL-STACK+DEVELOPER;WEB+SECURITY+ENGINEER;REACT+%7C+NEXT.JS+%7C+NODE.JS+%7C+.NET;BUILDING+SECURE+%26+SCALABLE+SYSTEMS"
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&duration=2200&pause=700&color=F6C85F&center=true&vCenter=true&width=1000&lines=AHMED+SOLIMAN;FULL-STACK+DEVELOPER;WEB+SECURITY+ENGINEER;REACT+%7C+NEXT.JS+%7C+NODE.JS+%7C+.NET;BUILDING+SECURE+%26+SCALABLE+SYSTEMS"
      alt="Ahmed Soliman"/>
 
 <br/><br/>
 
+<table border="0">
+<tr>
+
+<td align="center">
 <a href="https://github.com/Ahmedcyber2112">
 <img src="https://cdn.simpleicons.org/github/FFFFFF"
-     width="40"
-     height="40"
+     width="48"
+     height="48"
      alt="GitHub"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="30"></td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
 <img src="https://skillicons.dev/icons?i=linkedin"
-     width="40"
-     height="40"
+     width="48"
+     height="48"
      alt="LinkedIn"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="30"></td>
 
+<td align="center">
 <a href="mailto:ahmedso6789@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335"
-     width="40"
-     height="40"
+     width="48"
+     height="48"
      alt="Gmail"/>
 </a>
+</td>
 
-<br/><br/>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Ahmedcyber2112&label=PROFILE%20VIEWS&color=F6C85F&style=flat-square"
      alt="Profile Views"/>
