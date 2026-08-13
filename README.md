@@ -2,30 +2,38 @@
 
 <img src="./Blue%20and%20Black%20Modern%20Cybersecurity%20LinkedIn%20Banner.jpg"
   width="100%"
-  alt="Ahmed Soliman"/>
+  alt="Ahmed Soliman - Full-Stack Developer & Web Security Engineer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=25&duration=2200&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=AHMED+SOLIMAN;FULL-STACK+DEVELOPER;WEB+SECURITY+ENGINEER;BUILDING+SECURE+WEB+SYSTEMS"
-  alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=27&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=AHMED+SOLIMAN;FULL-STACK+DEVELOPER;WEB+SECURITY+ENGINEER;REACT+%7C+NEXT.JS+%7C+NODE.JS+%7C+.NET;BUILDING+SECURE+%26+SCALABLE+SYSTEMS"
+  alt="Ahmed Soliman"/>
 
 <br/><br/>
 
 <a href="https://github.com/Ahmedcyber2112">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF"
+     alt="GitHub"/>
 </a>
+
+  
 
 <a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+     alt="LinkedIn"/>
 </a>
 
+  
+
 <a href="mailto:ahmedso6789@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Gmail-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335"
+     alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ahmedcyber2112&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ahmedcyber2112&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square"
+  alt="Profile Views"/>
 
 </div>
 
@@ -33,15 +41,101 @@
 
 <div align="center">
 
-## `// WHO AM I`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=2&section=header"/>
 
-**Full-Stack Developer** focused on building modern, scalable and secure web applications.
-
-**Web Security Engineer** focused on authentication, authorization, API security and secure architecture.
+</div>
 
 <br/>
 
-`BUILD`   `SECURE`   `SCALE`
+## 👨‍💻 ABOUT ME
+
+<div align="center">
+
+### `FULL-STACK DEVELOPER`   ×   `WEB SECURITY ENGINEER`
+
+<br/>
+
+I'm **Ahmed Soliman**, a Full-Stack Developer & Web Security Engineer focused on building
+**modern, scalable, high-performance and secure web applications.**
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+**FRONTEND**
+
+<br/>
+
+React
+Next.js
+TypeScript
+Redux
+Tailwind
+
+</td>
+
+<td align="center" width="20%">
+
+**BACKEND**
+
+<br/>
+
+Node.js
+Express
+NestJS
+ASP.NET Core
+
+</td>
+
+<td align="center" width="20%">
+
+**DATABASE**
+
+<br/>
+
+MongoDB
+PostgreSQL
+MySQL
+SQL Server
+Redis
+
+</td>
+
+<td align="center" width="20%">
+
+**SECURITY**
+
+<br/>
+
+JWT
+RBAC
+API Security
+Authentication
+
+</td>
+
+<td align="center" width="20%">
+
+**DEVOPS**
+
+<br/>
+
+Docker
+Linux
+GitHub Actions
+Vercel
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILD-0B0F14?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/SECURE-00D9FF?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/SCALE-0B0F14?style=for-the-badge&logoColor=00D9FF"/>
 
 </div>
 
@@ -49,31 +143,75 @@
 
 ---
 
+<br/>
+
+# ⚡ TECH STACK
+
 <div align="center">
 
-## ⚡ TECH ARSENAL
+<table>
+<tr>
+<td align="center" width="50%">
 
-### FRONTEND
+### 🎨 FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite&perline=9"/>
-
-<br/><br/>
-
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet,graphql,prisma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6"/>
 
 <br/><br/>
 
-### DATABASE
+<img src="https://skillicons.dev/icons?i=redux,tailwind,bootstrap,mui,vite,sass&perline=6"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚙️ BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet,graphql&perline=6"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=prisma,swagger,socketio,ejs&perline=6"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ DATABASES
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&perline=5"/>
 
-<br/><br/>
+</td>
 
-### DEVOPS & TOOLS
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vscode,visualstudio,postman,figma,vercel&perline=10"/>
+### 💻 LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python&perline=5"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁️ DEVOPS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=5"/>
+
+</td>
+
+<td align="center">
+
+### 🛠️ TOOLS
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,vercel,npm&perline=6"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -81,48 +219,171 @@
 
 ---
 
+<br/>
+
+# 🚀 SELECTED PROJECTS
+
 <div align="center">
 
-## 🚀 FEATURED WORK
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+## 🏛️
+
+### EGYPTIAN HERITAGE
 
 </div>
+
+Interactive digital platform for exploring **Egyptian artifacts** through immersive 3D/VR experiences and automated workflows.
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-0B0F14?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-0B0F14?style=flat-square&logo=node.js&logoColor=339933"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/3D%2FVR-00D9FF?style=flat-square&logoColor=000"/>
+<img src="https://img.shields.io/badge/n8n-0B0F14?style=flat-square&logo=n8n&logoColor=EA4B71"/>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+## 🎓
+
+### E-LEARNING PLATFORM
+
+</div>
+
+Full-stack LMS with dedicated dashboards for **Students, Instructors and Administrators**.
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-0B0F14?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-0B0F14?style=flat-square&logo=node.js&logoColor=339933"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Prisma-0B0F14?style=flat-square&logo=prisma&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Docker-0B0F14?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/RBAC-00D9FF?style=flat-square&logoColor=000"/>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+## 🛒
+
+### GEMANEY
+
+</div>
+
+Full-stack e-commerce platform focused on scalable backend architecture and API-driven development.
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-0B0F14?style=flat-square&logo=csharp&logoColor=512BD4"/>
+<img src="https://img.shields.io/badge/.NET-0B0F14?style=flat-square&logo=dotnet&logoColor=512BD4"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Web%20API-00D9FF?style=flat-square&logoColor=000"/>
+<img src="https://img.shields.io/badge/SQL%20Server-0B0F14?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+# 🔐 SECURITY ENGINEERING
+
+<div align="center">
+
+<img src="./03.png"
+  width="210"
+  alt="Ahmed Soliman Cybersecurity"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OWASP-10151C?style=for-the-badge&logo=owasp&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/BURP%20SUITE-10151C?style=for-the-badge&logo=portswigger&logoColor=FF6633"/>
+
+<img src="https://img.shields.io/badge/JWT-10151C?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/LINUX-10151C?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/DOCKER-10151C?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+<br/><br/>
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center">
 
-<h3>🏛️ Egyptian Heritage</h3>
+### 🔑 IDENTITY
 
-Interactive digital experience for exploring Egyptian artifacts using modern **3D / VR** technology.
+`AUTHENTICATION`
 
-<br/><br/>
+`AUTHORIZATION`
 
-`React` `Node.js` `3D/VR` `n8n`
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🎓 E-Learning Platform</h3>
-
-Scalable LMS with dedicated systems for **Students, Instructors & Admins**.
-
-<br/><br/>
-
-`React` `Node.js` `Prisma` `Docker` `RBAC`
+`RBAC`
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
-<h3>🛒 Gemaney</h3>
+### 🛡️ APPLICATION
 
-Full-stack e-commerce platform with a scalable **.NET Web API** architecture.
+`API SECURITY`
 
-<br/><br/>
+`INPUT VALIDATION`
 
-`C#` `.NET Core` `SQL Server` `REST API`
+`SECURE CODING`
+
+</td>
+
+<td align="center">
+
+### 🔎 ANALYSIS
+
+`VULNERABILITY ANALYSIS`
+
+`SECURITY TESTING`
+
+`THREAT AWARENESS`
 
 </td>
 
@@ -131,13 +392,19 @@ Full-stack e-commerce platform with a scalable **.NET Web API** architecture.
 
 <br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/SECURE%20BY%20DESIGN-00D9FF?style=for-the-badge&logoColor=000000"/>
 
-<a href="https://github.com/Ahmedcyber2112?tab=repositories">
+ 
 
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/DEFENSE%20IN%20DEPTH-10151C?style=for-the-badge&logoColor=00D9FF"/>
 
-</a>
+ 
+
+<img src="https://img.shields.io/badge/SECURITY%20FIRST-00D9FF?style=for-the-badge&logoColor=000000"/>
+
+<br/><br/>
+
+> **Security isn't an extra layer — it's part of the architecture.**
 
 </div>
 
@@ -145,69 +412,25 @@ Full-stack e-commerce platform with a scalable **.NET Web API** architecture.
 
 ---
 
-<div align="center">
-
-## 🛡️ SECURITY
-
-<img src="./03.png" width="190" alt="Ahmed Soliman Cybersecurity"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/BURP%20SUITE-0D1117?style=for-the-badge&logo=portswigger&logoColor=FF6633"/>
-<img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AUTHENTICATION-00BFFF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/AUTHORIZATION-00BFFF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/RBAC-00BFFF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/API%20SECURITY-00BFFF?style=for-the-badge&logoColor=black"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/INPUT%20VALIDATION-00BFFF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/VULNERABILITY%20ANALYSIS-00BFFF?style=for-the-badge&logoColor=black"/>
-
-<br/><br/>
-
-<code>SECURE BY DESIGN</code>
-  •   <code>DEFENSE IN DEPTH</code>
-  •   <code>SECURITY FIRST</code>
-
-</div>
-
 <br/>
+
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-> **Security isn't an extra layer. It's part of the architecture.**
+<img height="175"
+  src="https://my-github-stats-fady.vercel.app/api?username=Ahmedcyber2112&show_icons=true&theme=tokyonight&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0B0F14&hide_border=true&border_radius=16"
+  alt="GitHub Statistics"/>
 
-</div>
+  
 
-<br/>
-
----
-
-<div align="center">
-
-## 📊 GITHUB ACTIVITY
-
-<br/>
-
-<img height="170"
-  src="https://my-github-stats-fady.vercel.app/api?username=Ahmedcyber2112&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"
-  alt="GitHub Stats"/>
-
-<img height="170"
-  src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Ahmedcyber2112&layout=compact&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"
+<img height="175"
+  src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Ahmedcyber2112&layout=compact&theme=tokyonight&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&bg_color=0B0F14&hide_border=true&border_radius=16"
   alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedcyber2112&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedcyber2112&theme=tokyonight&hide_border=true&background=0B0F14&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=7F8C98"
   alt="GitHub Streak"/>
 
 </div>
@@ -216,17 +439,107 @@ Full-stack e-commerce platform with a scalable **.NET Web API** architecture.
 
 ---
 
+<br/>
+
+# 🎓 EXPERIENCE & TRAINING
+
 <div align="center">
 
-## 🎓 TRAINING
+<table>
 
-|            PROGRAM            |          FOCUS         |
-| :---------------------------: | :--------------------: |
-|          **DEPI R3**          |  Software Development  |
-|  **.NET Development Diploma** | .NET / Web Development |
-|            **ITI**            |       ASP.NET MVC      |
-|   **React & MERN Training**   | Full-Stack Development |
-| **Cybersecurity Foundations** |      Web Security      |
+<tr>
+
+<td align="center">
+
+🎓
+
+<br/>
+
+<strong>DEPI R3</strong>
+
+<br/>
+
+Software Developer
+
+</td>
+
+<td align="center">
+
+⚡
+
+<br/>
+
+<strong>.NET DEVELOPMENT DIPLOMA</strong>
+
+<br/>
+
+.NET Development
+
+</td>
+
+<td align="center">
+
+💻
+
+<br/>
+
+<strong>ITI</strong>
+
+<br/>
+
+ASP.NET MVC
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+⚛️
+
+<br/>
+
+<strong>REACT & MERN</strong>
+
+<br/>
+
+Full-Stack Development
+
+</td>
+
+<td align="center">
+
+🛡️
+
+<br/>
+
+<strong>CYBERSECURITY</strong>
+
+<br/>
+
+Security Foundations
+
+</td>
+
+<td align="center">
+
+🚀
+
+<br/>
+
+<strong>CONTINUOUS LEARNING</strong>
+
+<br/>
+
+Building & Improving
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -234,35 +547,47 @@ Full-stack e-commerce platform with a scalable **.NET Web API** architecture.
 
 ---
 
+<br/>
+
 <div align="center">
 
-## 🌐 LET'S CONNECT
+# 🌐 CONNECT WITH ME
+
+<br/>
 
 <a href="https://github.com/Ahmedcyber2112">
-<img src="https://img.shields.io/badge/GITHUB-00BFFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GITHUB-10151C?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+  
 
 <a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
-<img src="https://img.shields.io/badge/LINKEDIN-00BFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LINKEDIN-10151C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
+  
+
 <a href="mailto:ahmedso6789@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00BFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/EMAIL-10151C?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=SECURE+THE+CODE.;BUILD+THE+FUTURE.;LET%27S+BUILD+SOMETHING+GREAT."
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=SECURE+THE+CODE.;BUILD+THE+FUTURE.;LET%27S+BUILD+SOMETHING+GREAT."
   alt="Closing Animation"/>
 
 <br/><br/>
 
-<code>ACCESS GRANTED // AHMED SOLIMAN</code>
+<img src="https://img.shields.io/badge/ACCESS%20GRANTED-00D9FF?style=for-the-badge&logoColor=000000"/>
+
+ 
+
+<img src="https://img.shields.io/badge/AHMED%20SOLIMAN-10151C?style=for-the-badge&logoColor=00D9FF"/>
 
 <br/><br/>
 
 <img src="./Blue%20and%20Black%20Modern%20Cybersecurity%20LinkedIn%20Banner.jpg"
   width="100%"
-  alt="Ahmed Soliman Cybersecurity"/>
+  alt="Ahmed Soliman Cybersecurity Footer"/>
 
 </div>
