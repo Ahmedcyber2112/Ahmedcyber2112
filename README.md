@@ -1,50 +1,53 @@
 <div align="center">
 
 <img src="./Blue%20and%20Black%20Modern%20Cybersecurity%20LinkedIn%20Banner.jpg"
-  width="100%"
-  alt="Ahmed Soliman - Full-Stack Developer & Web Security Engineer"/>
+     width="100%"
+     alt="Ahmed Soliman - Full-Stack Developer & Web Security Engineer"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=27&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=AHMED+SOLIMAN;FULL-STACK+DEVELOPER;WEB+SECURITY+ENGINEER;REACT+%7C+NEXT.JS+%7C+NODE.JS+%7C+.NET;BUILDING+SECURE+%26+SCALABLE+SYSTEMS"
-  alt="Ahmed Soliman"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=27&duration=2200&pause=700&color=F6C85F&center=true&vCenter=true&width=950&lines=AHMED+SOLIMAN;FULL-STACK+DEVELOPER;WEB+SECURITY+ENGINEER;REACT+%7C+NEXT.JS+%7C+NODE.JS+%7C+.NET;BUILDING+SECURE+%26+SCALABLE+SYSTEMS"
+     alt="Ahmed Soliman"/>
 
 <br/><br/>
 
 <a href="https://github.com/Ahmedcyber2112">
 <img src="https://cdn.simpleicons.org/github/FFFFFF"
-     width="42"
-     height="42"
+     width="40"
+     height="40"
      alt="GitHub"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-     width="42"
-     height="42"
+<img src="https://skillicons.dev/icons?i=linkedin"
+     width="40"
+     height="40"
      alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:ahmedso6789@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335"
-     width="42"
-     height="42"
-     alt="Email"/>
+     width="40"
+     height="40"
+     alt="Gmail"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ahmedcyber2112&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square"
-  alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Ahmedcyber2112&label=PROFILE%20VIEWS&color=F6C85F&style=flat-square"
+     alt="Profile Views"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=1&section=header"
-  width="70%"
-  alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F6C85F&height=1&section=header"
+     width="65%"
+     alt="Divider"/>
 
 </div>
-
 
 ## 👨‍💻 ABOUT ME
 
