@@ -1,410 +1,463 @@
 <div align="center">
 
-# ♟️ Ahmed Soliman
-
-### `Full-Stack Developer` · `Web Security Engineer`
-
-**Building scalable applications. Engineering secure systems. Creating modern digital experiences.**
+<img src="Chess git.png" width="100%" alt="Ahmed Soliman GitHub Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&width=850&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;NestJS+%7C+.NET+Core+%7C+REST+APIs;Web+Security+%7C+Secure+Architecture;Build+%E2%80%A2+Secure+%E2%80%A2+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2200&pause=700&color=FBBF24&center=true&vCenter=true&width=900&lines=AHMED+SOLIMAN;FULL-STACK+DEVELOPER;WEB+SECURITY+ENGINEER;REACT+%7C+NEXT.JS+%7C+NODE.JS;NESTJS+%7C+.NET+CORE+%7C+POSTGRESQL;BUILDING+SECURE+%26+SCALABLE+SYSTEMS" alt="Ahmed Soliman"/>
 
 <br/>
 
-<a href="https://github.com/Ahmedcyber2112">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ahmedso6789@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Ahmedcyber2112&label=PROFILE+VIEWS&color=fbbf24&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/Ahmedcyber2112?label=FOLLOWERS&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers"/>
 
 <br/><br/>
 
-<img src="Chess git.png" alt="Ahmed Soliman Chess Banner" width="100%"/>
+<a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ahmedso6789@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ahmedcyber2112">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 👋 About Me
+## `01` — WHO AM I?
 
-I'm **Ahmed Soliman**, a **Full-Stack Developer** and **Web Security Engineer** focused on designing and building modern, scalable, and secure web applications.
+```text
+Ahmed Soliman
+──────────────────────────────────────────────────────────────
 
-I work across the entire development lifecycle — from **UI architecture and frontend engineering** to **backend systems, APIs, databases, authentication, deployment, and security**.
+Role        → Full-Stack Developer | Web Security Engineer
+Focus       → Scalable Web Applications & Secure Systems
+Frontend    → React • Next.js • TypeScript
+Backend     → Node.js • Express • NestJS • .NET Core
+Databases   → MongoDB • PostgreSQL • MySQL • SQL Server • Redis
+Architecture→ REST APIs • MVC • Clean Architecture • RBAC
+Security    → Authentication • Authorization • JWT • API Security
+DevOps      → Docker • GitHub Actions • Linux • Vercel
 
-My goal is simple:
-
-> **Write clean code. Build scalable systems. Think about security from day one.**
-
-```javascript
-const AhmedSoliman = {
-  role: "Full-Stack Developer | Web Security Engineer",
-
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS",
-    "Redux"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "NestJS",
-    "ASP.NET Core"
-  ],
-
-  databases: [
-    "MongoDB",
-    "PostgreSQL",
-    "MySQL",
-    "SQL Server",
-    "Redis"
-  ],
-
-  security: [
-    "JWT",
-    "Authentication",
-    "Authorization",
-    "API Security",
-    "Vulnerability Analysis"
-  ],
-
-  architecture: [
-    "REST APIs",
-    "MVC",
-    "Clean Architecture",
-    "RBAC",
-    "Scalable Systems"
-  ],
-
-  mindset: "Build • Secure • Scale"
-};
+Mindset     → BUILD  •  SECURE  •  SCALE
 ```
 
 ---
 
-# 🚀 What I Do
+<div align="center">
 
-<table>
-<tr>
+### `> Turning ideas into production-ready systems.`
 
-<td width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
 
-## 🌐 Full-Stack Development
+</div>
 
-I build complete web applications from frontend interfaces to backend APIs and database architecture.
+## `02` — ABOUT
 
-**Focus**
+I'm **Ahmed Soliman**, a Full-Stack Developer and Web Security Engineer focused on building modern web applications with strong architecture, clean code, and security in mind.
 
-* React & Next.js
-* Node.js & NestJS
-* ASP.NET Core
-* REST APIs
-* Authentication
-* Database Architecture
+I work across the complete development lifecycle:
 
-</td>
-
-<td width="50%">
-
-## 🔐 Web Security
-
-Security is part of the development process — not an afterthought.
-
-**Focus**
-
-* Authentication & Authorization
-* JWT
-* API Security
-* Input Validation
-* Vulnerability Analysis
-* Secure Application Design
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🎨 Frontend Engineering
-
-Building responsive, accessible, and interactive interfaces with modern frontend technologies.
-
-**Focus**
-
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
-* Redux
-* Framer Motion
-
-</td>
-
-<td width="50%">
-
-## ⚙️ Backend Engineering
-
-Designing reliable APIs and backend systems with scalable architecture and clean code.
-
-**Focus**
-
-* Node.js
-* Express.js
-* NestJS
-* .NET Core
-* Prisma
-* SQL / NoSQL
-
-</td>
-
-</tr>
-</table>
+```text
+        PRODUCT
+           │
+           ▼
+     ┌───────────┐
+     │   FRONTEND│
+     └─────┬─────┘
+           │
+           ▼
+     ┌───────────┐
+     │  BACKEND  │
+     └─────┬─────┘
+           │
+           ▼
+     ┌───────────┐
+     │ DATABASES │
+     └─────┬─────┘
+           │
+           ▼
+     ┌───────────┐
+     │  SECURITY │
+     └─────┬─────┘
+           │
+           ▼
+     ┌───────────┐
+     │  DEPLOY   │
+     └───────────┘
+```
 
 ---
 
-# 🧰 Technical Arsenal
+# `03` — TECHNICAL STACK
 
-## 🎨 Frontend
+### FRONTEND
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,mui,sass,vite&perline=6"/>
-</p>
 
-<p align="center">
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black"/>
-<img src="https://img.shields.io/badge/Yup-fbbf24?style=for-the-badge&logo=yup&logoColor=black"/>
-</p>
+<img src="https://img.shields.io/badge/Yup-FBBF24?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/OOP-FBBF24?style=for-the-badge&logo=codeforces&logoColor=black"/>
+
+</div>
 
 ---
 
-## 🖥️ Backend
+### BACKEND
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet,graphql,prisma,swagger,socketio&perline=6"/>
-</p>
+
+</div>
 
 ---
 
-## 🗄️ Databases & Data
+### DATABASES
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,prisma&perline=6"/>
-</p>
+
+</div>
 
 ---
 
-## 👨‍💻 Programming Languages
+### PROGRAMMING LANGUAGES
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,ts&perline=5"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python&perline=5"/>
+
+</div>
 
 ---
 
-## ☁️ DevOps & Developer Tools
+### DEVOPS & TOOLS
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vscode,visualstudio,postman,figma,vercel,npm,pnpm&perline=6"/>
-</p>
+
+</div>
 
 ---
 
-# 🏆 Featured Work
+# `04` — ENGINEERING CAPABILITIES
+
+<div align="center">
+
+|      AREA      | CAPABILITIES                                                     |
+| :------------: | :--------------------------------------------------------------- |
+|   `Frontend`   | React · Next.js · TypeScript · Redux · Tailwind · Responsive UI  |
+|    `Backend`   | Node.js · Express · NestJS · ASP.NET Core · REST APIs            |
+|   `Database`   | MongoDB · PostgreSQL · MySQL · SQL Server · Redis                |
+| `Architecture` | MVC · Clean Architecture · RBAC · Layered Architecture           |
+|   `Security`   | JWT · Authentication · Authorization · Validation · API Security |
+|    `DevOps`    | Docker · GitHub Actions · Linux · Vercel · Git                   |
+|  `Integration` | REST · GraphQL · Swagger · Socket.IO · Stripe                    |
+
+</div>
+
+---
+
+# `05` — FEATURED PROJECTS
 
 ## 🏛️ Egyptian Heritage — VR & 3D Platform
 
-An immersive digital platform designed to showcase **Egyptian artifacts through interactive 3D/VR experiences**.
+> Immersive digital experience for exploring Egyptian artifacts through modern 3D/VR technology.
 
-The platform combines modern web technologies with automated workflows to create a more engaging digital museum experience.
+**Built with**
 
-**Core Technologies**
+`React` `Node.js` `3D/VR` `REST APIs` `n8n`
 
-`React` · `Node.js` · `3D/VR` · `n8n` · `REST APIs`
+**Highlights**
+
+* Interactive artifact experiences
+* Modern responsive interface
+* Automated workflows
+* API-driven architecture
+* Digital museum experience
 
 ---
 
 ## 🎓 University E-Learning Platform
 
-A complete **Learning Management System** designed around multiple user roles and dedicated dashboards.
+> Full-stack Learning Management System built around multiple user roles.
 
-### Key Features
+**Built with**
 
-* 👨‍🎓 Student Dashboard
-* 👨‍🏫 Instructor Dashboard
-* 🛡️ Admin Dashboard
-* 🔐 Role-Based Access Control
-* 📚 Course Management
-* 📊 Learning Management
-* 🗄️ Database Integration
+`React` `Node.js` `Prisma` `Docker`
 
-**Core Technologies**
+**Architecture**
 
-`React` · `Node.js` · `Prisma` · `Docker` · `RBAC`
+```text
+ADMIN
+  │
+  ├──────────────┐
+  ▼              ▼
+INSTRUCTOR     STUDENT
+  │              │
+  └──────┬───────┘
+         ▼
+      REST API
+         │
+         ▼
+      DATABASE
+```
+
+**Core Features**
+
+* Student Dashboard
+* Instructor Dashboard
+* Admin Dashboard
+* Role-Based Access Control
+* Course Management
+* Authentication
+* Database Integration
 
 ---
 
 ## 🛒 Gemaney — E-Commerce Platform
 
-A full-stack e-commerce solution focused on scalable backend architecture, API-driven development, authentication, and database management.
+> Full-stack e-commerce platform focused on scalable backend architecture and API-driven development.
 
-**Core Technologies**
+**Built with**
 
-`C#` · `ASP.NET Core` · `Web API` · `SQL Server` · `Authentication`
+`C#` `ASP.NET Core` `Web API` `SQL Server`
 
----
+**Core**
 
-## ⚡ Modern Full-Stack Applications
-
-I've worked on multiple applications using **MERN, React, and .NET ecosystems**, implementing:
-
-* RESTful APIs
-* Authentication & Authorization
+* Authentication
+* Product Management
 * CRUD Operations
+* RESTful APIs
 * Database Architecture
-* Responsive Interfaces
-* Role-Based Systems
-* API Integration
-* Modern UI/UX
+* Scalable Backend
 
 ---
 
-# 🏗️ System Architecture
-
-```text
-                         ┌──────────────────────┐
-                         │      CLIENT UI       │
-                         │ React / Next.js      │
-                         │ TypeScript / Tailwind│
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │      API LAYER       │
-                         │ REST / GraphQL       │
-                         │ Authentication       │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                    ┌───────────────────────────────┐
-                    │       BUSINESS LOGIC         │
-                    │ Node / NestJS / ASP.NET Core │
-                    │ MVC / Clean Architecture     │
-                    └───────────────┬───────────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │      DATA LAYER      │
-                         │ MongoDB / PostgreSQL │
-                         │ MySQL / SQL Server  │
-                         │ Redis / Prisma      │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │   INFRASTRUCTURE     │
-                         │ Docker / Linux       │
-                         │ GitHub Actions       │
-                         │ Vercel               │
-                         └──────────────────────┘
-```
-
----
-
-# 🔐 Security Mindset
-
-```text
-        ┌─────────────────────────┐
-        │      Secure by Design   │
-        └────────────┬────────────┘
-                     │
-          ┌──────────▼──────────┐
-          │ Authentication      │
-          └──────────┬──────────┘
-                     │
-          ┌──────────▼──────────┐
-          │ Authorization / RBAC│
-          └──────────┬──────────┘
-                     │
-          ┌──────────▼──────────┐
-          │ Input Validation    │
-          └──────────┬──────────┘
-                     │
-          ┌──────────▼──────────┐
-          │ API Security        │
-          └──────────┬──────────┘
-                     │
-          ┌──────────▼──────────┐
-          │ Vulnerability       │
-          │ Analysis            │
-          └─────────────────────┘
-```
-
----
-
-# 🎓 Professional Journey
-
-| 🎯 Area                 | 🏢 Experience                               |
-| ----------------------- | ------------------------------------------- |
-| 💻 Software Development | Digital Egypt Pioneers Initiative — DEPI R3 |
-| ⚙️ .NET Development     | .NET Development Diploma                    |
-| ⚛️ Frontend / MERN      | React & MERN Stack Training                 |
-| 🖥️ ASP.NET MVC         | ITI Internship                              |
-| 🔐 Cybersecurity        | Cybersecurity Foundations                   |
-| 🎨 UI / UX              | Figma & Modern Interface Design             |
-
----
-
-# 📊 GitHub Statistics
+# `06` — SECURITY ENGINEERING
 
 <div align="center">
 
-<img height="180em" src="https://my-github-stats-fady.vercel.app/api?username=Ahmedcyber2112&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"/>
+```text
+┌──────────────────────────────────────────┐
+│            SECURE APPLICATION            │
+├──────────────────────────────────────────┤
+│                                          │
+│   Authentication                         │
+│          ↓                               │
+│   Authorization / RBAC                   │
+│          ↓                               │
+│   Input Validation                       │
+│          ↓                               │
+│   Secure API Design                      │
+│          ↓                               │
+│   Data Protection                        │
+│          ↓                               │
+│   Vulnerability Analysis                 │
+│                                          │
+└──────────────────────────────────────────┘
+```
 
-<img height="180em" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Ahmedcyber2112&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"/>
+### Security Principles
+
+`Secure by Design` · `Least Privilege` · `Input Validation` · `Strong Authentication` · `API Security`
 
 </div>
+
+---
+
+# `07` — ARCHITECTURE
+
+```text
+                         ┌─────────────────────┐
+                         │      USER / UI      │
+                         │ React / Next.js     │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │     API GATEWAY     │
+                         │ REST / GraphQL      │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                  ┌─────────────────────────────────┐
+                  │          APPLICATION             │
+                  │                                  │
+                  │ Node.js / NestJS / ASP.NET Core │
+                  │ MVC / Clean Architecture         │
+                  └────────────────┬────────────────┘
+                                   │
+                                   ▼
+                         ┌─────────────────────┐
+                         │     DATA LAYER     │
+                         │ Prisma / MongoDB   │
+                         │ PostgreSQL / SQL   │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   INFRASTRUCTURE    │
+                         │ Docker / Linux      │
+                         │ CI/CD / Vercel      │
+                         └─────────────────────┘
+```
+
+---
+
+# `08` — DEVELOPMENT JOURNEY
+
+<div align="center">
+
+### 🎓 DEPI — Digital Egypt Pioneers Initiative
+
+**Software Developer — R3**
 
 <br/>
 
-<div align="center">
+### ⚙️ .NET Development
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedcyber2112&theme=tokyonight&hide_border=true&background=0D1117&ring=FBBF24&fire=FBBF24&currStreakLabel=FBBF24" />
+**.NET Development Diploma**
+
+<br/>
+
+### ⚛️ React / MERN
+
+**Full-Stack Development Training**
+
+<br/>
+
+### 🖥️ ITI
+
+**ASP.NET MVC Internship**
+
+<br/>
+
+### 🔐 Cybersecurity
+
+**Cybersecurity Foundations**
 
 </div>
 
 ---
 
-# 🧠 Engineering Philosophy
+# `09` — GITHUB ANALYTICS
 
-### ♟️ Think Like a Chess Player
+<div align="center">
 
-Every software system is a game of decisions.
+<img height="180" src="https://my-github-stats-fady.vercel.app/api?username=Ahmedcyber2112&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"/>
 
-**Plan before you code.**
+<img height="180" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Ahmedcyber2112&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"/>
 
-**Understand before you build.**
+<br/><br/>
 
-**Secure before you deploy.**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedcyber2112&theme=tokyonight&hide_border=true&background=0D1117&ring=FBBF24&fire=FBBF24&currStreakLabel=FBBF24"/>
 
-**Optimize before you scale.**
-
-I approach development with the same mindset used in chess:
-
-> **Think ahead. Understand the position. Make the right move.**
+</div>
 
 ---
 
-# 🌐 Let's Connect
+# `10` — GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmedcyber2112&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# `11` — CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedcyber2112&bg_color=0d1117&color=fbbf24&line=fbbf24&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# `12` — CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ahmedcyber2112/Ahmedcyber2112/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# `13` — CURRENT FOCUS
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  ██████╗ ███████╗██╗   ██╗███████╗██╗              │
+│  ██╔══██╗██╔════╝██║   ██║██╔════╝██║              │
+│  ██║  ██║█████╗  ██║   ██║█████╗  ██║              │
+│  ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║              │
+│  ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗         │
+│  ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝         │
+│                                                      │
+│  → Advanced Full-Stack Architecture                 │
+│  → Secure API Development                            │
+│  → Web Security                                      │
+│  → Scalable Backend Systems                          │
+│  → Modern React / Next.js Applications               │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# `14` — THE CHESS MINDSET
+
+<div align="center">
+
+```text
+           ♟️
+          / \
+         /   \
+        THINK
+          │
+          ▼
+        PLAN
+          │
+          ▼
+        BUILD
+          │
+          ▼
+       SECURE
+          │
+          ▼
+        SCALE
+          │
+          ▼
+          ♛
+```
+
+### **Every move matters. Every line of code has a purpose.**
+
+> **Think ahead. Build clean. Secure everything.**
+
+</div>
+
+---
+
+# `15` — CONNECT
 
 <div align="center">
 
@@ -412,19 +465,19 @@ I approach development with the same mindset used in chess:
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55"/>
 </a>
 
-  
+   
 
 <a href="mailto:ahmedso6789@gmail.com">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55"/>
 </a>
 
-  
+   
 
 <a href="https://www.facebook.com/g3a7med2112">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55"/>
 </a>
 
-  
+   
 
 <a href="https://wa.me/201061021365">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55"/>
@@ -436,18 +489,18 @@ I approach development with the same mindset used in chess:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 
 <br/>
 
-# ♟️ Build. Secure. Scale.
+## ♟️ BUILD · SECURE · SCALE
 
-**Thanks for visiting my GitHub profile.**
+**Thanks for visiting my profile.**
 
-*Let's build something remarkable together.* 🚀
+`Let's build something remarkable.`
 
 <br/>
 
-<img src="Chess git.png" alt="Chess Footer" width="100%"/>
+<img src="Chess git.png" width="100%" alt="Chess Footer"/>
 
 </div>
