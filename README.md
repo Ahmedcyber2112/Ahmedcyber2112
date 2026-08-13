@@ -1,140 +1,201 @@
 <div align="center">
 
-<img src="./Blue%20and%20Black%20Modern%20Cybersecurity%20LinkedIn%20Banner.jpg" width="100%" alt="Ahmed Soliman Cybersecurity Banner"/>
+<img src="./Blue%20and%20Black%20Modern%20Cybersecurity%20LinkedIn%20Banner.jpg" width="100%" alt="Ahmed Soliman | Full-Stack Developer & Web Security Engineer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=27&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=900&lines=AHMED+SOLIMAN;FULL-STACK+DEVELOPER;WEB+SECURITY+ENGINEER;REACT+%7C+NEXT.JS+%7C+NODE.JS;NESTJS+%7C+.NET+CORE;BUILDING+SECURE+%26+SCALABLE+SYSTEMS" alt="Ahmed Soliman"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=25&duration=2000&pause=600&color=00BFFF&center=true&vCenter=true&width=900&lines=AHMED+SOLIMAN;FULL-STACK+DEVELOPER;WEB+SECURITY+ENGINEER;SOFTWARE+%7C+SECURITY+%7C+ARCHITECTURE;BUILDING+SYSTEMS+THAT+SCALE+%26+STAY+SECURE" alt="Ahmed Soliman"/>
 
 <br/>
 
-<a href="https://github.com/Ahmedcyber2112">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ahmedso6789@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Ahmedcyber2112&label=SYSTEM+VISITORS&color=00BFFF&style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ahmedcyber2112&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge"/>
+<a href="https://github.com/Ahmedcyber2112">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+</a>
+<a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
+</a>
+<a href="mailto:ahmedso6789@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF"/>
+</a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-I'm **Ahmed Soliman**, a **Full-Stack Developer & Web Security Engineer** focused on building modern, scalable, and secure web applications.
-
-I combine **frontend engineering, backend architecture, databases, APIs, and security** to turn ideas into production-ready systems.
+<div align="center">
 
 ```text
-Frontend     → React • Next.js • TypeScript
-Backend      → Node.js • Express • NestJS • .NET Core
-Databases    → MongoDB • PostgreSQL • MySQL • SQL Server
-Architecture → REST APIs • MVC • Clean Architecture • RBAC
-Security     → JWT • Authentication • Authorization • API Security
-DevOps       → Docker • GitHub Actions • Linux • Vercel
+╔══════════════════════════════════════════════════════════╗
+║                  SYSTEM IDENTITY                        ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   USER       : AHMED SOLIMAN                             ║
+║   ROLE       : FULL-STACK DEVELOPER                      ║
+║   SPECIALTY  : WEB SECURITY ENGINEERING                  ║
+║   STATUS     : BUILDING • SECURING • SCALING             ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
-
-<div align="center">
-
-### `BUILD  •  SECURE  •  SCALE`
 
 </div>
 
+# `01` // PROFILE
+
+I'm **Ahmed Soliman** — a **Full-Stack Developer & Web Security Engineer** focused on engineering modern web applications from the interface to the infrastructure.
+
+My work sits at the intersection of:
+
+`Software Engineering` · `Backend Architecture` · `Web Security` · `Databases` · `DevOps`
+
+> **I don't just build applications. I engineer systems.**
+
 ---
 
-# 🛠️ Tech Stack
+# `02` // STACK
 
 <div align="center">
 
-### Frontend
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,mui,vite&perline=6"/>
 
-<br/><br/>
-
-### Backend
+### BACKEND
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,dotnet,graphql,prisma,swagger,socketio&perline=6"/>
 
-<br/><br/>
+### DATA
 
-### Database & DevOps
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&perline=5"/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,docker,linux,githubactions,git,github&perline=6"/>
+### DEVOPS / TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vscode,visualstudio,postman,figma,vercel&perline=5"/>
 
 </div>
 
 ---
 
-# 🔥 Featured Projects
+# `03` // ENGINEERING DNA
 
-### 🏛️ Egyptian Heritage — VR & 3D Platform
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  FRONTEND       React • Next.js • TypeScript      │
+│                                                    │
+│  BACKEND        Node.js • NestJS • ASP.NET Core   │
+│                                                    │
+│  DATA           MongoDB • PostgreSQL • SQL Server │
+│                                                    │
+│  ARCHITECTURE   REST • MVC • Clean Architecture   │
+│                                                    │
+│  SECURITY       JWT • RBAC • API Security         │
+│                                                    │
+│  DEVOPS         Docker • Linux • CI/CD            │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
 
-Immersive digital experience for exploring **Egyptian artifacts through interactive 3D/VR technology**.
+---
+
+# `04` // SELECTED SYSTEMS
+
+### 🏛️ EGYPTIAN HERITAGE
+
+**VR / 3D Digital Experience**
+
+A modern platform designed to bring Egyptian artifacts into an interactive digital environment through **3D/VR experiences and automated workflows**.
 
 `React` `Node.js` `3D/VR` `REST APIs` `n8n`
 
 ---
 
-### 🎓 University E-Learning Platform
+### 🎓 E-LEARNING PLATFORM
 
-Full-stack **Learning Management System** with dedicated dashboards and role-based access for Students, Instructors, and Administrators.
+**Multi-Role Learning Management System**
+
+A full-stack educational platform engineered around **Students, Instructors, and Administrators**, with role-based access and dedicated dashboards.
 
 `React` `Node.js` `Prisma` `Docker` `RBAC`
 
 ---
 
-### 🛒 Gemaney — E-Commerce Platform
+### 🛒 GEMANEY
 
-Scalable e-commerce backend built with modern API architecture, authentication, database management, and CRUD operations.
+**E-Commerce Platform**
+
+A scalable e-commerce backend built around API-driven architecture, authentication, database operations, and maintainable backend services.
 
 `C#` `ASP.NET Core` `Web API` `SQL Server`
 
 ---
 
-# 🔐 Security Engineering
+# `05` // SECURITY LAYER
 
 <div align="center">
 
-<img src="03.png" width="260" alt="Cybersecurity"/>
+<img src="./03.png" width="300" alt="Ahmed Soliman Cybersecurity"/>
 
 </div>
 
-I approach security as part of the development lifecycle — from architecture to deployment.
-
 ```text
-Authentication
-      ↓
-Authorization / RBAC
-      ↓
-Input Validation
-      ↓
-Secure API Design
-      ↓
-Data Protection
-      ↓
-Vulnerability Analysis
+                 ┌───────────────────┐
+                 │    APPLICATION    │
+                 └─────────┬─────────┘
+                           │
+                    ┌──────▼──────┐
+                    │   IDENTITY  │
+                    │ Auth / JWT  │
+                    └──────┬──────┘
+                           │
+                    ┌──────▼──────┐
+                    │   ACCESS    │
+                    │    RBAC     │
+                    └──────┬──────┘
+                           │
+                    ┌──────▼──────┐
+                    │ VALIDATION  │
+                    │ Input / API │
+                    └──────┬──────┘
+                           │
+                    ┌──────▼──────┐
+                    │  SECURITY   │
+                    │   ANALYSIS  │
+                    └─────────────┘
 ```
 
-**Security Focus:**
-`JWT` · `Authentication` · `Authorization` · `API Security` · `Secure Architecture`
+**Security mindset**
+
+`Secure by Design` · `Least Privilege` · `Strong Authentication` · `Input Validation` · `API Security`
 
 ---
 
-# 📊 GitHub Analytics
+# `06` // DEVELOPMENT TRACK
 
 <div align="center">
 
-<img height="175" src="https://my-github-stats-fady.vercel.app/api?username=Ahmedcyber2112&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"/>
+| PROGRAM           | ROLE / FOCUS           |
+| :---------------- | :--------------------- |
+| **DEPI R3**       | Software Developer     |
+| **.NET Diploma**  | .NET Development       |
+| **ITI**           | ASP.NET MVC            |
+| **React / MERN**  | Full-Stack Development |
+| **Cybersecurity** | Security Foundations   |
 
-<img height="175" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Ahmedcyber2112&layout=compact&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"/>
+</div>
+
+---
+
+# `07` // GITHUB TELEMETRY
+
+<div align="center">
+
+<img height="170" src="https://my-github-stats-fady.vercel.app/api?username=Ahmedcyber2112&show_icons=true&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"/>
+
+<img height="170" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=Ahmedcyber2112&layout=compact&theme=tokyonight&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12"/>
 
 <br/><br/>
 
@@ -144,34 +205,52 @@ Vulnerability Analysis
 
 ---
 
-# 🎓 Professional Development
+# `08` // OPERATING PRINCIPLE
 
-* 🎓 **Software Developer — Digital Egypt Pioneers Initiative (DEPI R3)**
-* ⚙️ **.NET Development Diploma**
-* ⚛️ **React & MERN Stack Training**
-* 🖥️ **ASP.NET MVC Internship — ITI**
-* 🔐 **Cybersecurity Foundations**
+<div align="center">
+
+```text
+     THINK
+       │
+       ▼
+     DESIGN
+       │
+       ▼
+     BUILD
+       │
+       ▼
+     TEST
+       │
+       ▼
+    SECURE
+       │
+       ▼
+     DEPLOY
+       │
+       ▼
+     SCALE
+```
+
+### `Every line has a purpose. Every system has an attack surface.`
+
+</div>
 
 ---
 
-# 🌐 Connect
+# `09` // CONNECT
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-soliman-2112ip/">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00BFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-
-   
 
 <a href="mailto:ahmedso6789@gmail.com">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50"/>
+<img src="https://img.shields.io/badge/EMAIL-00BFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-   
-
 <a href="https://github.com/Ahmedcyber2112">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="50"/>
+<img src="https://img.shields.io/badge/GITHUB-00BFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
@@ -180,12 +259,20 @@ Vulnerability Analysis
 
 <div align="center">
 
-### `SECURE THE CODE. BUILD THE FUTURE.`
-
-<img src="./03.png" width="180" alt="Cybersecurity Hacker"/>
+<img src="./03.png" width="170" alt="Cybersecurity"/>
 
 <br/><br/>
 
-<img src="./Blue%20and%20Black%20Modern%20Cybersecurity%20LinkedIn%20Banner.jpg" width="100%" alt="Ahmed Soliman Cybersecurity Footer"/>
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║       BUILD  //  SECURE  //  SCALE                  ║
+║                                                      ║
+║       ── ACCESS GRANTED ──                           ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="./Blue%20and%20Black%20Modern%20Cybersecurity%20LinkedIn%20Banner.jpg" width="100%" alt="Cybersecurity Footer"/>
 
 </div>
